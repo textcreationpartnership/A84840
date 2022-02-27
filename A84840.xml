@@ -1,0 +1,172 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The vvoman learning in silence: or, The mysterie of the womans subiection to her husband· As also, the daughter prophesying, wherein the Lord hath, and is fulfilling that he spake by the prophet Joel, I will poure out my spirit upon all flesh, &amp;c. / Given forth by George Fox.</title>
+            <author>Fox, George, 1624-1691.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1656</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84840</idno>
+            <idno type="STC">Wing F1991</idno>
+            <idno type="STC">Thomason E870_8</idno>
+            <idno type="STC">ESTC R204822</idno>
+            <idno type="EEBO-CITATION">99864285</idno>
+            <idno type="PROQUEST">99864285</idno>
+            <idno type="VID">116510</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84840)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 116510)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 131:E870[8])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The vvoman learning in silence: or, The mysterie of the womans subiection to her husband· As also, the daughter prophesying, wherein the Lord hath, and is fulfilling that he spake by the prophet Joel, I will poure out my spirit upon all flesh, &amp;c. / Given forth by George Fox.</title>
+                  <author>Fox, George, 1624-1691.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thomas Simonds, at the sign of the Bul and Mouth neer Aldersgate.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1656.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "March: 22 1655"; also the last number of the imprint date has been marked through and replaced with a "5".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Doctrines --  Early works to 1800.</term>
+               <term>Women --  Religious aspects --  Christianity --  Early works to 1800.</term>
+               <term>Women --  Religious life --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-12</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-12</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:116510:1"/>
+            <pb facs="tcp:116510:1" rendition="simple:additions"/>
+            <p>
+               <hi>The VVoman learning in Silence:</hi> OR, THE MYSTERIE OF THE Womans Subiection TO HER HUSBAND.</p>
+            <p>As alſo, The Daughter propheſying, where<g ref="char:EOLhyphen"/>in the Lord hath, and is fulfilling that he ſpake by the Prophet <hi>Joel, I will poure out my Spirit upon all Fleſh, &amp;c.</hi>
+            </p>
+            <p>Given forth by <hi>George Fox.</hi>
+            </p>
+            <q>
+               <hi>Quench not the Spirit.</hi>
+            </q>
+            <q>
+               <hi>Deſpiſe not Propheſying.</hi>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Thomas Simonds,</hi> at the ſign of the <hi>Bul</hi> and <hi>Mouth</hi> neer <hi>Alderſgate.</hi> 1656.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:116510:2"/>
+            <pb n="1" facs="tcp:116510:2"/>
+            <head>THE VVOMAN LEARNING IN SILENCE, <hi>&amp;c.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">L</seg>Et your women learn in ſilence, with all ſubjection; here is a ſilent learning, a learning in ſilence: I ſuffer not a wo<g ref="char:EOLhyphen"/>man to Teach, nor to uſurp Authori<g ref="char:EOLhyphen"/>ty over the man, but to be ſilent, there ſhe is to learn, in the ſilence, and not to uſurp Authority over the man, but ask her Husband at home.
+<note place="margin">
+                  <hi>Gal.</hi> 5.18.</note> That which u<g ref="char:EOLhyphen"/>ſurps Authority, the Law takes hold on, but if you be led of the ſpirit, then you are not under the Law: So I permit not a Woman to ſpeak in the Church, as ſaith the Law: So let the Women learn in ſilence, with all ſubjection: But I ſuffer not a Woman to uſurp Authority over the man, but be in all ſilence; for <hi>Adam</hi> was formed, then <hi>Eve</hi> and <hi>Adam</hi> was not decei<g ref="char:EOLhyphen"/>ved, but the woman was in the Tranſgreſſion, Read 1 <hi>Tim.</hi> 2. Never<g ref="char:EOLhyphen"/>theleſs ſhe ſhall be ſaved in child-bearing, if ſhe continue in faith and charity, and holineſs, with ſobriety. Let your women keep ſilence in the Church, for it is not permitted for them to ſpeak, but they are commanded to be under obedience, as alſo ſaith the Law, the women which are to be under obedience, and to be ſilent, and not to ſpeak in the Church, as alſo ſaith the Law, which doth not permit; but Chriſt in the Male, and in the Female is one, which makes free from the Law: <hi>I will poure out my spirit upon Sons and Daughters, and they ſhall pro<g ref="char:EOLhyphen"/>pheſie:</hi> And if they will learn any thing, let them ask their Husbands at home, for it is a ſhame for a woman to ſpeak in the <hi>Church,</hi>
+               <note place="margin">i <hi>Cor.</hi> 1.21.</note> that which the Law forbids and commands ſilence; it is a ſhame to ſuffer them to ſpeak in the <hi>Church.</hi> VVhat? came the VVord of God out from
+<pb n="2" facs="tcp:116510:3"/>you, or came it unto you only? <hi>Paul,</hi> according to the meaſure given to him,
+<note place="margin">2 <hi>Pet.</hi> 3.</note> in all his Epiſtles, ſpeaking in them of things which ſome are hard to be underſtood, which they that are unlearned, and unſtable, wreſt, as they do alſo the other Scriptures, to their own deſtruction: You therefore, beloved, ſeeing you know theſe things, beware leaſt you alſo be led away with the error of the wicked, and fall from your own ſtedfaſtneſs; but grow in grace, and the knowledg of our Lord Jeſus Chriſt, who is the end of the Law for righteouſneſs ſake. <hi>Peter,</hi> which was unlearned in the Letter, yet learned of Chriſt, ſayes, Such as were unlearned, who wreſt the Scriptures and the Epiſtles, being unlearned. The Scribes, Phariſees, great Rabbies, and Doctors knew not the Scriptures, being not learned of <hi>Chriſt,</hi> him who was the life of the pro<g ref="char:EOLhyphen"/>phets, and the end of the Law, whom <hi>Peter</hi> was learned in, knew and preached, whom they knew not: So here the unlearned, who was in the life, confounded all the learned out of the life, who learned of him by whom the world was made, who comprehended all the worlds learning that was in the world; ſo the unlearned wreſt, they are to learn in ſilence, and not to ſpeak, as ſaith the law, but learn of their husband at home, Chriſt, who makes free from the Law; nevertheleſs ſhe ſhall be ſaved by child-bearing, Chriſt in the Male, and Chriſt in the Female. Husbands love your Wives, and be not bitter againſt them. Wives ſubmit your ſelves firſt to your Husbands as unto the Lord: The Husband is the head of the Wife, even as Chriſt is the head of the church, and is the Saviour of the body: Therefore as the church is ſubject to Chriſt,
+<note place="margin">
+                  <hi>Eph.</hi> 5.</note> ſo let the Wives be ſubject to their own Husbands in every thing. Husbands love your Wives, even as Chriſt loved the church, and gave himſelf for it, that he might ſanctifie and cleanſe it, by the waſhing of water by the Word, that he might preſent it a glori<g ref="char:EOLhyphen"/>ous church, without ſpot or wrinckle, or any ſuch thing, that it ſhould be holy without blemiſh: So ought men to love their Wives as their own bodies; he that loveth his Wife, loveth himſelf, for no man ever hated his own fleſh, but nouriſhed it, and cheriſhed it, even as the Lord the church, for we are Members of his body, of his fleſh, and of his bones; for this cauſe ſhall a man leave his Father and Mother, and be joyned to his Wife, and they twain ſhall be one fleſh: This is a great myſtery, I ſpeak concerning Chriſt and the church; He that hath an ear, let him hear this great myſtery; now the unlearned men wreſt it, and the unſtabliſhed, who know not this great myſtery, you that are ignorant of the Lords work, and the voice of his prophets, who are wondring at the propheſying of the daughters, who make your ſelvs ig<g ref="char:EOLhyphen"/>norant of the Scriptures, and are wondering at the Lords Prophets, his Daughters, which <hi>Ioel</hi> the Lords Prophet, which ſpoke from the Lord, and ſaith the Lord to him, I am the Lord your God, and none elſe, and my people ſhall never be aſhamed: It ſhall come to paſs after thoſe dayes, I will pour forth my ſpirit upon all fleſh, and your Sons and your Daughters ſhall propheſie, and your old men ſhal dream dreams, and young men ſhall ſee viſions; and alſo upon the Servants and upon the Handmaids in thoſe dayes wil I poure out my ſpirit, ſaith the Lord:
+<pb n="3" facs="tcp:116510:3"/>Here all may ſee the Spirit of the Lord not limited, but upon the hand<g ref="char:EOLhyphen"/>maids &amp; the ſervants is the Lords Spirit poured, &amp; to be poured, &amp; many thouſands of ſervants &amp; handmaids witneſs the Spirit of the Lord pou<g ref="char:EOLhyphen"/>red upon them, the word of the Lord fulfilled, &amp; upon the ſons &amp; daugh<g ref="char:EOLhyphen"/>ters wil the Lord pour out his ſpirit, &amp; they ſhal propheſie, and many daughters &amp; ſons, and young men, and old men witneſs the ſpirit of the Lord upon them poured out, that viſions are ſeen, old men dream dreams, &amp; yong men ſee viſions, &amp; their ſons &amp; their daughters do pro<g ref="char:EOLhyphen"/>pheſy, <hi>Ioel</hi> 2.28. &amp; in <hi>Act.</hi> 2. the Apoſtles there do gather together, wait<g ref="char:EOLhyphen"/>ing upon the Lord, upon whom the holy Ghoſt fell among them that were to wait for the Spirit. This Propheſie of <hi>Ioel</hi> they ſaw the fulfilling of, which to the world they were as men drunk; and ſo here the Apoſtles witneſsed the fulfilling of the Prophets, who are witneſſes of Chriſt, whom the Apoſtles did give teſtimony of, &amp; did ſpeak of the daughters propheſying: &amp; <hi>Phillip</hi> had four daughters that did propheſie, which the Apoſtle did not forbid, and ſaith the Apoſtle, diſpiſe not propheſying: here the prophet <hi>Ioel</hi> was not againſt the daughters propheſying, nor the Apoſtles were not againſt it, but ſaid, diſpiſe not propheſying; and ſaith the Lord, 1 <hi>Chron.</hi> 16.22. Touch not mine anointed, &amp; do my pro<g ref="char:EOLhyphen"/>phets no harm: ſo you that perſecute the daughters on whom the ſpirit of the Lord is poured, &amp; beleeve them not, you are them that deſpiſe the prophets, &amp; deſpiſe propheſying, and ſo have broken the Apoſtles com<g ref="char:EOLhyphen"/>mand, who ſaith, deſpiſe not propheſying, &amp; ſhews that you are out of the Prophets doctrine, &amp; the Apoſtles doctrine, againſt the Promiſe of God ſtand with all your might, who ſaith, he would poure forth his ſpi<g ref="char:EOLhyphen"/>rit upon all fleſh, &amp; his daughters ſhould propheſie; &amp; how can you be eſtabliſhed, &amp; believe not the prophets? for believing the Prophets they came to be eſtabliſhed, as you may read, 2 <hi>Chr.</hi> 20. ſo how ignorant of the prophets &amp; promiſes of God doth the called teachers of the world make themſelves manifeſt, &amp; how in darkneſs they appear to the children of light, 1 <hi>Theſ.</hi> 5.20. ſo you that deſpiſe propheſie, &amp; caſt the daughters and ſons, ſervants and handmaids into priſon, who witneſs the ſpirit of the Lord God poured forth upon them, you ſhew that you be out of the Apo<g ref="char:EOLhyphen"/>ſtles doctrine, &amp; to be ſtrangers to the ſpirit the Scriptures were given forth from, &amp; are ignorant of the Church the Apoſtle ſpeaks of, who ſaith let the prophets ſpeak two or three, &amp; let the other judg, &amp; if any thing be reveal'd to one that ſits by, let the firſt hold his peace, for you may al propheſyone by one, that al may learn, &amp; al maybe comforted, &amp; the ſpi<g ref="char:EOLhyphen"/>rit of the prophets is ſubject to the prophets, for God is not the author of confuſion, but of peace, as in all the Churches of the ſaints. This order was in the Church of the Saints, the prophets to ſpeak two or three, &amp; the other to judg, and if any thing be revealed to another that ſits by, the firſt held his peace: they might propheſy all one by one, that al may learn &amp; be comforted, &amp; the ſpirit of the prophets was ſubject to the pro<g ref="char:EOLhyphen"/>phets, &amp; this was order, &amp; not confuſion in al the Churches of the Saints, wch is diſorder &amp; confuſion in the Churches of the world, who cannot indure a daughter to propheſie, for a daughter might propheſie, and a daughter is a prophet, where the ſpirit of the Lord is poured forth upon, &amp; a ſon; for you never read that any of the prophets or apoſtles were a<g ref="char:EOLhyphen"/>gainſt
+<pb n="4" facs="tcp:116510:4"/>the daughters which had the ſpirit of the Lord poured forth upon them, a daughter might propheſie in the Church: for let your prophets ſpeak two or three, and I wil pour out my ſpirit upon all fleſh, and your daughters ſhall propheſie, for you that deſpiſe propheſying deſpiſe Gods command, and are out of <hi>Moſes</hi> light and life, who ſaid, Would all the Lords people were prophets, <hi>Numb.</hi> 11.26, 27, 28. and daughters are the Lords people; and when they were propheſying in the camp, there ran a young man and told <hi>Moſes,</hi> and <hi>Ioſhua</hi> the ſon of <hi>Nun,</hi> the ſervant of <hi>Moſes,</hi> one of his young men anſwered and ſaid, My lord forbid them: and <hi>Moſes</hi> ſaid unto him, Envieſt thou for my ſake? would God all the Lords people were prophets, and that the Lord would put his ſpirit upon them. Now mark <hi>Moſes</hi> anſwer, how backward <hi>Moſes</hi> was from limiting the ſpirit, that he would have the Lords ſpirit put upon them all, and ſaid, <hi>would that all the Lords people were Prophets:</hi> Now hear you magiſtrates, prieſts and people, which do put into priſon ſons and daughters for propheſying, and the lords peo<g ref="char:EOLhyphen"/>ple, you ſhew a contrary ſpirit, you ſhew a ſpirit that hath erred from <hi>Moſes</hi> ſpirit, who cannot indure that the ſpirit of the <hi>Lord</hi> ſhould be poured upon them that they ſhould propheſie, but would limit it to learned men, old books, and authors. And <hi>Hanna</hi> the propheteſs, the daughter of <hi>Phanuel,</hi> which was about fourſcore and four years of age, came into the Temple, who ſerved God with faſting and prayer night and day, ſhe ſpake of Chriſt to all them that looked for Redemption in Jeruſalem.</p>
+            <p>Here was a large teſtimony born of Jeſus by <hi>Hanna</hi> the Propheteſs;
+<note place="margin">
+                  <hi>Luke</hi> 2.36, 37, 38</note> here you may ſee a daughter which did give teſtimony of Jeſus, which would be, and is a wonder in this our age, to ſee a woman of fourſcore years of age to ſpeak of Jeſus to all them that look for redemption in Jeruſalem, as ſhe did; put her in priſon, would the wicked ones ſay, into priſon with her would the Prieſts ſay: And <hi>Paul</hi> the Miniſter of God in <hi>Phil.</hi> the 4th. there he intreats his true yoke-fellow to help thoſe women which laboured with him in the Goſpel, as you may there read. The Women were joyned with the other fellow-Labourers, whoſe names are written in the book of life; and in <hi>Rom.</hi> 16. there you may ſee <hi>Priſcilla</hi> and <hi>Aquila, Pauls</hi> helpers in Chriſt Jeſus, who for his life laid down their necks; here the wife <hi>Priſcilla</hi> was an inſtructer and was one of them that laid down their necks, and a helper in Chriſt Jeſus;
+<note place="margin">
+                  <hi>Acts</hi> 18.24, 25, 26.</note> ſhe and <hi>Aquila</hi> took <hi>Apollo</hi> and expounded to him the way of God more perfectly; one who taught in the Synagogue was inſtruct<g ref="char:EOLhyphen"/>ed by her and him in the way of God more perfectly; at theſe you Synagogue-Teachers ſcoffs to be inſtructed by a woman, and you that forbid a woman for ſpeaking that hath the Spirit of the Lord, you for<g ref="char:EOLhyphen"/>bid Scripture;
+<note place="margin">1 <hi>Cor.</hi> 16.19</note> for <hi>Aquila</hi> and <hi>Priſcilla</hi> had a Church in their houſe, and the Church in <hi>Priſcilla</hi> and <hi>Aquila's</hi> houſe was to be greeted, who were inſtructers; and in the aforeſaid Chap. <hi>Act.</hi> 18. he that was ſpea<g ref="char:EOLhyphen"/>king holdly in the Synagogue witneſſing Chriſt the ſecond Prieſt, the end of the firſt Prieſthood that took Tythes, the Law, the Offering, &amp; the Temple, by him, <hi>Priſcilla</hi> and <hi>Aquila</hi> expounded to him the way
+<pb n="5" facs="tcp:116510:4"/>of God more perfectly, and the Apoſtle <hi>Paul</hi> a Miniſter of the Lord who witneſſeed the daughters prophecying, ſaith, <hi>I commend unto you</hi> Phebe <hi>our Siſter, which is a ſervant of the Church which is at</hi> Cenchrea,
+<note place="margin">
+                  <hi>Rom</hi> 16.1, 2.</note> 
+               <hi>that you receive her in the Lord as becometh Saints, that you aſſiſt her in what buſineſs ſhe hath need of, for ſhe hath been a ſuccourer of many, and of my ſelf alſo:</hi> This was Phebe the Siſter, the Servant of the Church, which was to be received in the Lord, and aſſiſt her in whatſoever buſineſs ſhe hath need. And ſaith the Apoſtle, as touching <hi>Priſcilla</hi> and <hi>Aquila</hi> his fellow labourers in Chriſt Jeſus, who laid down their necks for his life, unto whom he gave thanks, and not only he did give thanks, but alſo all the Churches of the Gentiles. Here you may ſee the account <hi>Aquila</hi> and <hi>Priſcilla</hi> were in, who laid down their necks for the Apo<g ref="char:EOLhyphen"/>ſtle, how thank-worthy they were; and <hi>Mary</hi> in Verſ. 6. was to be gree<g ref="char:EOLhyphen"/>ted, who beſtowed much labour on the Apoſtle. You that cannot own the prophecying of the daughters, the women-labourers in the Goſ<g ref="char:EOLhyphen"/>pel, you are ſuch as the Apoſtle ſpeaks of in the ſame Chapter,
+<note place="margin">
+                  <hi>Rom.</hi> 16. <hi>chap. tho<g ref="char:EOLhyphen"/>rowout.</hi>
+               </note> which ſerve not the Lord Jeſus Chriſt, but your own bellies, and by the good words and fair ſpeeches, deceive the hearts of the ſimple, for the obe<g ref="char:EOLhyphen"/>dience of theſe was gone abroad, which the Apoſtle ſpeaks of, and your diſobedience is gone abroad to the Apoſtles Doctrine, who cannot in<g ref="char:EOLhyphen"/>dure the prophecying of the ſons and daughters where the Spirit of the Lord is powred upon them;
+<note place="margin">
+                  <hi>Joel.</hi> 30.</note> And <hi>Mary Magdalene</hi> ſaw Jeſus after his Reſurrection, which on the firſt day of the week came to the ſepulchre, and when ſhe ſaw Jeſus, ſhe knew not that it was him, and ſaid unto him, Maſter; Jeſus ſaith unto her, <hi>Touch me not, for I am not yet aſcended to my Father, but go unto my brethren, and ſay unto them, I aſcend unto your Father and my Father, unto your God and my God. Mary Magdelene</hi> came and told the Diſciples that ſhe had ſeen the Lord, and he had ſpoken theſe things unto her; the ſame day at evening being the firſt day of the week, the Diſciples were aſſembled, Jeſus came and ſtood in the midſt, &amp; ſaid, <hi>Peace be amongſt you.</hi> Now here all may ſee that it was <hi>Ma<g ref="char:EOLhyphen"/>ry Magdalone</hi> that was ſent to declare his Reſurrection, and ſhe was to tel the brethren (the Diſciples) whither Chriſt was to go, to his father and our father, his God &amp; our God, where her teſtimony was received. Now you that make a ſcoff &amp; a wonder at a Womans declaring, you may ſee that it was <hi>Mary</hi> that firſt declared Chriſt after he was riſen, ſo be aſhamed and confounded for ever, &amp; let all your mouths be ſtopt for ever, that deſpiſe the ſpirit of propheſie in the daughters, and do caſt them into priſon, and to hinder the women-labourers in the Goſ<g ref="char:EOLhyphen"/>pel, and ſaith the Apoſtle, Chriſt in the male and in the female, and if Chriſt be in the female as well as in the Male, is not he the ſame? and may not the Spirit of Chriſt ſpeak in the female as wel as in the male? is he there to be limited? who is it that dare limit the holy One of Iſ<g ref="char:EOLhyphen"/>rael? for the light is the ſame in the male, &amp; in the female which com<g ref="char:EOLhyphen"/>eth from Chriſt, him by whom the world was made, and ſo Chriſt is one in all, and not divided, and who is it that dares ſtop Chriſts mouth? that now is come to reign in his ſons &amp; daughters, Chriſt in the male, and Chriſt in the female? and you that will not have him to reign in
+<pb n="6" facs="tcp:116510:5"/>the Female as well as in the Male, you are againſt Scripture, and will not have him to reign over you; for in that Male where Chriſt doth reign,
+<note place="margin">2 <hi>Cor.</hi> 13.</note> rule and ſpeak, he will own Chriſt in the Female, there to reign, to rule and ſpeak, and come to ſee the Apoſtles Doctrine, a Miniſter of Chriſt and of God, and not made by the wil of man, who ſaid, that Chriſt was in the Male and in the Female, Chriſt all in all, and Chriſt in you, except you be Reprobates: Now you that be Reprobates, in whom Chriſt doth not reign nor rule, cannot indure that Chriſt ſhould be in the Female nor in the Male, but him you will hale into priſon, &amp; yet profeſs the Words, as the Phariſees did, to whom Chriſt ſaid, I was ſick, and in priſon, and ye viſited me not; and I was naked and hungry, and ye clothed me not, nor fed me: Now them which had Scripture, &amp; would not have Chriſt to reign, ſaid, When ſaw we thee in priſon, or naked, and hungry, and we clothed thee not, or viſited thee not? In aſ<g ref="char:EOLhyphen"/>much as you did it not to the leaſt of theſe, you did it not unto me, ſaid Chriſt. So if they who viſited him not in priſon, who had the Scriptures to talk on, of Chriſt that was to come, as you have of one which is come, and would not have him reign, as you wil not now; ſuch were to go into puniſhment prepared for the devil and his angels: if ſuch pun<g ref="char:EOLhyphen"/>iſhment came upon them that viſited him not when he was caſt into priſon, what wil come upon you that do him caſt into priſon? but Chiſt is come to reign, him by whom the world was made, before the world was made, who now reigns in his ſons and daughters, and in the male and in the female, that the glory is ſeen that the Son had with the Fa<g ref="char:EOLhyphen"/>ther before the world began, which glory thoſe males and females that receive Chriſt do ſee, and the ſpirits of the Prophets is ſubject to the Prophets, whether it be ſon or daughter that propheſies, for the ſpirit of the prophets is ſubject to the prophets, and the prophets may ſpeak one by one in the true Church, and the daughter is a prophet as wel as theſon.
+<note place="margin">1 <hi>Cor.</hi> 14.31, 32, 33.</note> Now every one having a light from Chriſt Jeſus, the ſon of God him by whom the world was made, being turned to the light, tur<g ref="char:EOLhyphen"/>ned to Chriſt, him by whom the world was made, ſee him, the prophet, whom God hath raiſed up, which <hi>Moſes</hi> ſpoke of, who is the end of the prophets, and with the Light ſee Chriſt, the gift of God, the promiſe of the Father, and receive him; you will ſee with the Light ſuch as act contrary to the Light, ſuch as act contrary to the Light which they are lighted withall, what due and portion is to them who contrary to the Light do act which comes from Jeſus Chriſt; and with the Light you will ſee the promiſe to them of life that walk in the Light that comes from Jeſus, and every one receiving the Light which comes from Chriſt, ſhall receive the ſpirit of propheſie, whether they be male or female, and the ſpirit of propheſie is the Teſtimony of Jeſus; if male and female have received the Teſtimony of Jeſus, they have received the ſpirit of propheſie</p>
+            <trailer>FJNJS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
